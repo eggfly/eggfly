@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eggfly"><img alt="Followers" src="https://img.shields.io/github/followers/eggfly?style=for-the-badge&labelColor=0d1117&color=1f6feb&logo=github"></a>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
